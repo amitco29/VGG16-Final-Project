@@ -1,0 +1,2 @@
+# VGG16-Final-Project
+This repository contains an end-to-end pipeline for an 8-class aircraft image classification model. Built on the VGG16 architecture using Transfer Learning, the project leverages a custom, perfectly balanced dataset of 960 RGB images. It features advanced data augmentation techniques, hyperparameter optimization, and deep model analysis utilizing Unsupervised Manifold Learning (UMAP) for feature space visualization and Grad-CAM for model explainability.
