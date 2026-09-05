@@ -21,3 +21,9 @@ This repository contains an end-to-end pipeline for an 8-class aircraft image cl
 Ensure you have Python installed along with the required libraries:
 ```bash
 pip install numpy pandas matplotlib tensorflow scikit-learn umap-learn opencv-python
+
+Installation & Execution
+This project is structured as a series of Jupyter Notebooks. To review the workflow, please explore the notebooks in numerical order.
+
+👨‍💻 Author
+Amit Cohen | B.Sc. Computer Science
